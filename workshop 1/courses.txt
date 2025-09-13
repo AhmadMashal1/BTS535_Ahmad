@@ -1,0 +1,6 @@
+1: BTS535 LEC NDD : Software Project Management
+2: BTP500 LEC NCC : Data Strctures and Algorithms
+3: BTH745 LEC NAA : Human Computer-Interaction
+4: DPS937 LEC NSA : Game Development Fundementals
+5: BTE620 LEC NAA : Law, Ethics and Social Responsibility
+6: BTN710 LEC NAA : Information Security
